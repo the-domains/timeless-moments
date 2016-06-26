@@ -40,10 +40,10 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/127967435'
 title: Erik & Megan--A Sneak Peek
-datePublished: '2016-06-26T03:21:47.136Z'
-dateModified: '2016-06-26T03:21:46.800Z'
+datePublished: '2016-06-26T03:22:00.609Z'
+dateModified: '2016-06-26T03:22:00.292Z'
 sourcePath: _posts/2016-06-26-erik-and-megan-a-sneak-peek.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
