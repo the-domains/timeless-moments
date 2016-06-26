@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Timeless Moments]]></title>
-        <description><![CDATA[Timeless Moments]]></description>
+        <title><![CDATA[You've seen the ordinary.  Come experience the extraordinary.]]></title>
+        <description><![CDATA[You've seen the ordinary.  Come experience the extraordinary.]]></description>
         <link>https://thegrid.ai/timeless-moments/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 26 Jun 2016 03:01:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2016 03:19:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/timeless-moments/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Laura and Jeff's Sneak Peek]]></title>
+            <description><![CDATA[<article><h1>Laura and Jeff's Sneak Peek</h1><p>Laura and Jeff were married at the Waterview in Monroe.</p></article>]]></description>
+            <link>https://vimeo.com/156346777</link>
+            <guid isPermaLink="false">52fd5f59-55a9-4b92-8d8a-92a8042eaf46</guid>
+            <pubDate>Sun, 26 Jun 2016 03:19:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Wedding Ceremony Drone Highlights]]></title>
             <description><![CDATA[<article><h1>Wedding Ceremony Drone Highlights</h1><p>Angela and Sergio's beautiful outdoor ceremony. Here, only the drone footage was used to give a different perspective of the ceremony.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/timeless-moments/baecd1e0-1ef5-44e6-9397-32c02dbeaef9/index.html</link>
             <guid isPermaLink="false">baecd1e0-1ef5-44e6-9397-32c02dbeaef9</guid>
             <pubDate>Sun, 26 Jun 2016 02:12:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/029acbf5-e699-47e2-8e37-46d5edf72c3b.jpg">]]></description>
-            <link>https://thegrid.ai/timeless-moments/88216988-7180-4b49-b07d-a1a2e4539608/index.html</link>
-            <guid isPermaLink="false">88216988-7180-4b49-b07d-a1a2e4539608</guid>
-            <pubDate>Sun, 26 Jun 2016 02:12:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
