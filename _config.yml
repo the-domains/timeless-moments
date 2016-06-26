@@ -1,4 +1,3 @@
-layout_spectrum: 0.9168107116129249
 typography_spectrum: 0.16957991663366556
 color:
   brandStrength: 0.6159698329865932
@@ -11,8 +10,10 @@ color:
     - '#E9F1DF'
     - '#4AD9D9'
     - '#36B1BF'
-name: Timeless Moments
+layout_spectrum: 0.9168107116129249
 author:
   name: Kevin Rossi
   email: kevin@timelessmomentsvideo.com
   url: 'https://thegrid.ai/timeless-moments/'
+name: Timeless Moments Video
+title: You've seen the ordinary.  Come experience the extraordinary.
