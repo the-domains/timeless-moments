@@ -1,11 +1,11 @@
 ---
 description: 'Memories are measured,'
-dateModified: '2016-06-26T04:24:07.614Z'
-datePublished: '2016-06-26T04:24:07.816Z'
+dateModified: '2016-06-26T04:24:10.560Z'
+datePublished: '2016-06-26T04:24:10.715Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-26-memories-are-measured.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
