@@ -42,10 +42,10 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/132486717'
 title: Chelsea and Jim--A Sneak Peek
-datePublished: '2016-06-26T03:21:56.239Z'
-dateModified: '2016-06-26T03:21:55.918Z'
+datePublished: '2016-06-26T03:45:30.392Z'
+dateModified: '2016-06-26T03:45:30.129Z'
 sourcePath: _posts/2016-06-26-chelsea-and-jim-a-sneak-peek.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
