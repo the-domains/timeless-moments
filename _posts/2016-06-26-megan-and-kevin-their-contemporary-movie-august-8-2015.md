@@ -42,10 +42,10 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/152769321'
 title: 'Megan & Kevin--Their Contemporary Movie--August 8, 2015'
-datePublished: '2016-06-26T02:12:16.078Z'
-dateModified: '2016-06-25T23:04:15.110Z'
-starred: false
+datePublished: '2016-06-26T03:21:35.072Z'
+dateModified: '2016-06-26T03:21:34.800Z'
 sourcePath: _posts/2016-06-26-megan-and-kevin-their-contemporary-movie-august-8-2015.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
