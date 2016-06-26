@@ -6,9 +6,13 @@ color:
   saturation: 0.8972105965949595
   rhythmicContrast: 0.7990278007928282
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#F2385A'
+    - '#F5A503'
+    - '#E9F1DF'
+    - '#4AD9D9'
+    - '#36B1BF'
 name: Timeless Moments
+author:
+  name: Kevin Rossi
+  email: kevin@timelessmomentsvideo.com
+  url: 'https://thegrid.ai/timeless-moments/'
