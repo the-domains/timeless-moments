@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Timeless Moments]]></title>
         <description><![CDATA[Timeless Moments]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/timeless-moments/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 26 Jun 2016 02:11:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 26 Jun 2016 02:12:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/timeless-moments/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Laura and Jeff's Sneak Peek]]></title>
+            <description><![CDATA[<article><h1>Laura and Jeff's Sneak Peek</h1><p>Laura and Jeff were married at the Waterview in Monroe.</p></article>]]></description>
+            <link>https://vimeo.com/156346777</link>
+            <guid isPermaLink="false">52fd5f59-55a9-4b92-8d8a-92a8042eaf46</guid>
+            <pubDate>Sun, 26 Jun 2016 02:12:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Chris and Corey's Highlights]]></title>
             <description><![CDATA[<article><h1>Chris and Corey's Highlights</h1><p>Corey and Chris were married at St. Patrick - St. Anthony in Hartford, CT and held their reception at Lake of Isles in North Stonington, CT.</p></article>]]></description>
