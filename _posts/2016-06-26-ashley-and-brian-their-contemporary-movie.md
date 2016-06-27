@@ -43,10 +43,10 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/95447059'
 title: Ashley and Brian--Their Contemporary Movie
-datePublished: '2016-06-26T02:12:17.603Z'
-dateModified: '2016-06-25T23:50:55.506Z'
-starred: false
+datePublished: '2016-06-26T21:52:17.119Z'
+dateModified: '2016-06-26T21:52:16.728Z'
 sourcePath: _posts/2016-06-26-ashley-and-brian-their-contemporary-movie.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
