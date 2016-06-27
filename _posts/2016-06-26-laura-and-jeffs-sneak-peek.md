@@ -40,10 +40,10 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/156346777'
 title: Laura and Jeff's Sneak Peek
-datePublished: '2016-06-26T03:19:06.866Z'
-dateModified: '2016-06-26T03:18:58.632Z'
+datePublished: '2016-06-26T21:53:09.664Z'
+dateModified: '2016-06-26T21:53:09.405Z'
 sourcePath: _posts/2016-06-26-laura-and-jeffs-sneak-peek.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
